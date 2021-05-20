@@ -1,4 +1,4 @@
-Hi John,
+Hi John
 
 Congratulations on qualifying for the Interview Prep program!
 
