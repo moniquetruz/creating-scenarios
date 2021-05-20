@@ -1,10 +1,8 @@
 Hi Dennis,
 
-As discussed in our [course policies](https://courses.codepath.org/snippets/ios_university/policies_remote_fall19), you should know that one missed assignment will result in removal from the course.
+Glad to hear from you. Unfortunately, as discussed in our [course policies](https://courses.codepath.org/snippets/ios_university/policies_remote_fall19#heading-attendance-and-coursework-submissions), you will have to be withdrawn from the course because you **missed coursework** and **failed to respond to us within 24 hours after reaching out to you regarding your non-compliance**.
 
-Since you **missed one coursework** and **failed to respond to us within 24 hours after reaching out to you regarding your non-compliance**, you were automatically withdrawn from the class.
-
-Nevertheless, please be reminded that you still have a lifetime access to the course material, provided that you will use the github you used in signing up for CodePath. So, feel free to utilize the available course material and keep on learning!
+But the good news is that you will still have a lifetime access to the course material, provided that you will use the github you used in signing up for CodePath. So, feel free to utilize the available course material and keep on learning!
 
 All the best,
 
