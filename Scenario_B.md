@@ -14,7 +14,9 @@ In addition, we are happy to share that CodePath already begun extending its ser
 
 For now, you can sign up for our [mailing list](https://share.hsforms.com/1eg_EOoQpR4ObU4s8fUES2Q36gst) so we could notify you when classes become available in your area powered by local organizers or through remote means. You can also learn a lot from our [list of Android resources online](http://guides.codepath.com/android/Beginning-Android-Resources#beginning-android-resources).
 
-We hope to be able to bring programs to your area soon and expand our audience for future programs. Thanks for your understanding.
+We hope to be able to bring programs to your area soon and expand our audience for future programs.
+
+Thanks for your understanding.
 
 All the best,
 
