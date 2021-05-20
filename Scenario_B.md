@@ -2,8 +2,9 @@ Hi Jane,
 
 Thank you for putting an effort in building the Flix app. All of our applications have at least two sections for eligibility checks on the front page. We apologize if we were not clear enough about it and we will take note of this moving forward as we continue to improve our process. Since you do not qualify for the following course requirements:
 
-**1. 	Enrolled in the US university
-2. 	Physically present in the Bay Area for each on-site session during the 8-week period**
+**1. 	Enrolled in the US university**
+
+**2. 	Physically present in the Bay Area for each on-site session during the 8-week period**
 
 We regret to inform you that you cannot be admitted in the iOS CodePath Bootcamp. And please know that your hard work would never be considered wasted as you certainly gained more knowledge and honed your skills by creating the Flix app yourself.
 
